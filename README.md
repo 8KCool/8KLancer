@@ -26,9 +26,10 @@ Redux-Thunk, React-Hook), Material UI, JavaScript (ES6),
 HTML5, SCSS<br>
 • Optimized microservices-based application with
 Node.js, AWS, Firebase, MongoDB, Google Cloud.
-
 <br>
-
+<div align='right'>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="500" height="320" />
+</div>
 
 ### :fire: Skills
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Senior+Full-Stack+Developer;Artificial+Intelligence+devotee;Virtual+Reality+(AR%2FVR)+Developer)](https://git.io/typing-svg)
@@ -48,7 +49,7 @@ Node.js, AWS, Firebase, MongoDB, Google Cloud.
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original.svg"></code><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-
+<br>
 
 ### :fire: My Stats :
 <div align="left">
