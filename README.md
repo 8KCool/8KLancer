@@ -5,7 +5,8 @@
 </div>
 
 <h2 align="center">
-        <img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="40"/> Thanks for visiting my Github profile.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+        Thanks for visiting my Github profile.<img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="50"/> 
 </h2>
 
+
+  //<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
