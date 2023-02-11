@@ -30,7 +30,7 @@ Node.js, AWS, Firebase, MongoDB, Google Cloud.
 <div align='right'>
   <br>
   <br>
-  <img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="300" align="right"/> 
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300" align="right"/> 
 </div>
 <br>
 
