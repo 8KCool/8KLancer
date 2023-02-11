@@ -7,12 +7,12 @@
   </a>
 </div>
 
-
-### :fire: About <img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="30"/> Blackpandalancer
-
 <h2 align="center">
         Thanks for visiting my Github profile. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
+<br>
+
+### :fire: About <img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="30"/> Blackpandalancer
 
 As a senior Full-Stack developer, I'd like to help you out with your business and success.
 As a skilled and experted Full-Stack developer with 5 years full experience, creating UI using frontend libraries and framworks, managing backend is my top skill
@@ -30,6 +30,7 @@ Node.js, AWS, Firebase, MongoDB, Google Cloud.
 <div align='right'>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="350" height="320" />
 </div>
+<br>
 
 ### :fire: Skills
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Senior+Full-Stack+Developer;Artificial+Intelligence+devotee;Virtual+Reality+(AR%2FVR)+Developer)](https://git.io/typing-svg)
