@@ -28,7 +28,7 @@ HTML5, SCSS<br>
 Node.js, AWS, Firebase, MongoDB, Google Cloud.
 <br>
 <div align='right'>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="350" height="320" />
+  <img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="400" align="right"/> 
 </div>
 <br>
 
