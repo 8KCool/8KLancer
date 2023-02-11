@@ -35,9 +35,6 @@ Node.js, AWS, Firebase, MongoDB, Google Cloud.
   <img align="right" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="500" height="320" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackPandalancer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
 ### :fire: Skills
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Senior+Full-Stack+Developer;Artificial+Intelligence+devotee;Virtual+Reality+(AR%2FVR)+Developer)](https://git.io/typing-svg)
 <br>
