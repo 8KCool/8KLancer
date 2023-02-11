@@ -1,5 +1,4 @@
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/computer-future-40DRc0W00UbgQ" width="100"/>
+  <img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="500"/>
 </div>
-
