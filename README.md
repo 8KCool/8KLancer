@@ -29,18 +29,6 @@ Node.js, AWS, Firebase, MongoDB, Google Cloud.
 
 <br>
 
-### :fire: My Stats :
-
-<div align='right'>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="500" height="320" />
-</div>
-
-<div align="left">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackPandalancer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
-<br>
 
 ### :fire: Skills
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Senior+Full-Stack+Developer;Artificial+Intelligence+devotee;Virtual+Reality+(AR%2FVR)+Developer)](https://git.io/typing-svg)
@@ -60,5 +48,19 @@ Node.js, AWS, Firebase, MongoDB, Google Cloud.
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original.svg"></code><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+
+
+### :fire: My Stats :
+
+<div align='right'>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="500" height="320" />
+</div>
+
+<div align="left">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackPandalancer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
+<br>
 
 
