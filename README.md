@@ -27,7 +27,7 @@ HTML5, SCSS<br>
 • Optimized microservices-based application with
 Node.js, AWS, Firebase, MongoDB, Google Cloud.
 
-<div>
+<div align='right'>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="500" height="320" />
 </div>
 <br>
@@ -51,6 +51,7 @@ Node.js, AWS, Firebase, MongoDB, Google Cloud.
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 
+<br>
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackPandalancer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
