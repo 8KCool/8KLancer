@@ -4,8 +4,11 @@
   </a>
 </div>
 
+<div style="float:right">
+  <img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="50"/> 
+</div>
 <h2 align="center">
-        Thanks for visiting my Github profile.<img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="50"/> 
+        Thanks for visiting my Github profile.
 </h2>
 
 
