@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="50"/> 
-<div id="badges">
+<div id="badges" align="right">
   <a href="https://komarev.com/ghpvc/?username=BlackPandalancer">
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   </a>
