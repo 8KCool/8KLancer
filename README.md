@@ -38,10 +38,6 @@
 </div>
   <br>
   <br>
-  
-<div align='right'>
-  <img src="https://media.giphy.com/media/8f3nS1Gajtv70qNicE/giphy.gif" width="300" align="right"/> 
-</div>
 
 &nbsp;&nbsp;<h3><img src="https://github.com/gupta-ji6/panda/blob/main/panda-icon.webp" width="20"/> 𝓗𝔂𝓫𝓻𝓲𝓭 𝓜𝓸𝓫𝓲𝓵𝓮 𝓐𝓹𝓹 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 <h3>
 &nbsp;&nbsp;&nbsp;&nbsp;👌 Android developer responsible for full app life-cycle: concept, design, build, test, deploy and release to the app store. <br>
@@ -56,10 +52,6 @@
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"></code>
     
-
-<div align='right'>
- <img src="https://media.giphy.com/media/QyJTDR8VkUtyKHNPm9/giphy.gif" width="300" align="right"/> 
-</div>
 
 &nbsp;&nbsp;<h3><img src="https://github.com/gupta-ji6/panda/blob/main/panda-icon.webp" width="20"/> 𝓐𝓘 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 <h3>
 &nbsp;&nbsp;&nbsp;&nbsp;👌 Experience with debugging and building fielded AI applications. <br>
