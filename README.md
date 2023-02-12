@@ -14,19 +14,12 @@
 
 ### :fire: About <img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="30"/> Blackpandalancer
 
-As a senior Full-Stack developer, I'd like to help you out with your business and success.
-As a skilled and experted Full-Stack developer with 5 years full experience, creating UI using frontend libraries and framworks, managing backend is my top skill
+&nbsp;&nbsp;<img src="https://github.com/gupta-ji6/panda/blob/main/panda-icon.webp" width="20"/> 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;👌 Build 30+ custom interfaces using the Periodic API. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;👌 Wrote 200+ unit tests to verify the functionality of user interfaces, back-end processing, connectivity, and relational database intreactions. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;👌 Developed web applications and components using Angular, React, including software testing practices. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;👌 Developed web applications and components using Angular, React, including software testing practices. <br>
 
-• Designed and implemented scalable architectures for
-web applications to support millions of users per day. <br>
-• Collaborated with project manager and designers to
-developer and implement efficient, flexible and reusable
-user interface components using React (Redux-Saga,
-Redux-Thunk, React-Hook), Material UI, JavaScript (ES6),
-HTML5, SCSS<br>
-• Optimized microservices-based application with
-Node.js, AWS, Firebase, MongoDB, Google Cloud.
-<br>
 <div align='right'>
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300" align="right"/> 
 </div>
