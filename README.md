@@ -21,53 +21,58 @@
 &nbsp;&nbsp;&nbsp;&nbsp;👌 Build 30+ custom interfaces using the Periodic API. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;👌 Wrote 200+ unit tests to verify the functionality of user interfaces, back-end processing, connectivity, and relational database intreactions. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;👌 Developed web applications and components using Angular, React, including software testing practices. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Developed web applications and components using Angular, React, including software testing practices. <br>
 
-
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webflow/webflow-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg"></code>
+<div>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg"></code>
+  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"></code>
+  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></code>
+  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"></code>
+  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webflow/webflow-original.svg"></code>
+  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"></code>
+  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
+  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></code>
+  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
+</div>
+  <br>
+  <br>
   
-
 <div align='right'>
   <img src="https://media.giphy.com/media/8f3nS1Gajtv70qNicE/giphy.gif" width="300" align="right"/> 
 </div>
 
 &nbsp;&nbsp;<h3><img src="https://github.com/gupta-ji6/panda/blob/main/panda-icon.webp" width="20"/> 𝓗𝔂𝓫𝓻𝓲𝓭 𝓜𝓸𝓫𝓲𝓵𝓮 𝓐𝓹𝓹 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 <h3>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Build 30+ custom interfaces using the Periodic API. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Wrote 200+ unit tests to verify the functionality of user interfaces, back-end processing, connectivity, and relational database intreactions. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Developed web applications and components using Angular, React, including software testing practices. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Developed web applications and components using Angular, React, including software testing practices. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;👌 Android developer responsible for full app life-cycle: concept, design, build, test, deploy and release to the app store. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;👌 Implemented marketing strategies which resulted in 12% growth of customer base. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;👌 Writing the unit test cases across multiple browsers, platforms, and devices, including smartphones and tablet. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;👌 Building React native application utilizing Redux for enhanced maintainability. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;👌 Developed a mobile app for the company's primary service for visualizing data and reading industry news. <br>
 
 
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webflow/webflow-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"></code>
     
 
 <div align='right'>
  <img src="https://media.giphy.com/media/QyJTDR8VkUtyKHNPm9/giphy.gif" width="300" align="right"/> 
 </div>
 
-&nbsp;&nbsp;<h3><img src="https://github.com/gupta-ji6/panda/blob/main/panda-icon.webp" width="20"/> 𝓐𝓘 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 <h3>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Build 30+ custom interfaces using the Periodic API. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Wrote 200+ unit tests to verify the functionality of user interfaces, back-end processing, connectivity, and relational database intreactions. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Developed web applications and components using Angular, React, including software testing practices. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;👌 Developed web applications and components using Angular, React, including software testing practices. <br>
+&nbsp;&nbsp;<h3><img src="https://github.com/gupta-ji6/panda/blob/main/panda-icon.webp" width="20"/> 𝓐𝓘 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 <h3>
+&nbsp;&nbsp;&nbsp;&nbsp;👌 Experience with debugging and building fielded AI applications. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;👌 Define a use-case scenario for a robot serving coffee and cinnamon bun <br>
+&nbsp;&nbsp;&nbsp;&nbsp;👌 Develop vision detection of human, cup, bun and saucer <br>
+&nbsp;&nbsp;&nbsp;&nbsp;👌 Develop controls for locomotion, grasping, positioning and placing items. <br>
 
 
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webflow/webflow-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg"></code></code>
   
 ### :fire: My Stats :
 <div align="left">
