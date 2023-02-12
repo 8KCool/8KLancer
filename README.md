@@ -74,7 +74,7 @@
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg"></code></code>
   
-### :fire: My Stats :
+### <img src="https://github.com/gupta-ji6/panda/blob/main/panda-icon.webp" width="20"/> My Stats :
 <div align="left">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackPandalancer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
