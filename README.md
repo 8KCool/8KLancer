@@ -33,7 +33,7 @@
   <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"></code>
   <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
   <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></code>
-  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"></code>
   <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
 </div>
   <br>
