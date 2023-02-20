@@ -77,8 +77,8 @@
   
 ### <img src="https://github.com/gupta-ji6/panda/blob/main/panda-icon.webp" width="20"/> contact me :
   
-  skype: live:.cid.3d1d32ccb634f85c
-  telegram: https://t.me/BlackPandalancer
+  skype: live:.cid.3d1d32ccb634f85c<br>
+  telegram: https://t.me/BlackPandalancer<br>
   discord: ☯𝒷𝓁𝒶𝒸𝓀𝒫𝒶𝓃𝒹𝒶𝓁𝒶𝓃𝒸𝑒#4118
 
 
