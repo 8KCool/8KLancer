@@ -47,7 +47,7 @@
         <img src="https://img.shields.io/badge/Python-blue" /> 
         <img src="https://img.shields.io/badge/Selenium-blue" />        
         <img src="https://img.shields.io/badge/Ruby-blue" /> 
-        <img src="https://img.shields.io/badge/Rails-blue" /> ]
+        <img src="https://img.shields.io/badge/Rails-blue" />
         <img src="https://img.shields.io/badge/Flask-blue" /> 
         <img src="https://img.shields.io/badge/PHP-blue" /> 
         <img src="https://img.shields.io/badge/Laravel-blue" /> 
