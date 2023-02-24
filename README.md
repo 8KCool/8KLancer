@@ -2,8 +2,8 @@
 
 <img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="50" align="right"/> 
 <div id="badges">
-  <a href="https://komarev.com/ghpvc/?username=BlackPandalancer" align="left">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <a href="https://komarev.com/ghpvc/?username=8KLancer" align="left">
+    <img src="https://komarev.com/ghpvc/?username=8KLancer&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
 
@@ -69,7 +69,7 @@
 ### <img src="https://github.com/gupta-ji6/panda/blob/main/panda-icon.webp" width="20"/> My Stats :
 <div align="left">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackPandalancer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8KLancer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
 <br>
