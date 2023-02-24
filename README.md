@@ -34,7 +34,6 @@
         <img src="https://img.shields.io/badge/React-blue" /> 
         <img src="https://img.shields.io/badge/JavaScript-blue" /> 
         <img src="https://img.shields.io/badge/TypeScript-blue" />
-        <img src="https://img.shields.io/badge/React-blue" /> 
         <img src="https://img.shields.io/badge/Vue-blue" /> 
         <img src="https://img.shields.io/badge/Angular-blue" /> 
         <img src="https://img.shields.io/badge/Tailwind-blue" /> 
