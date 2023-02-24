@@ -47,16 +47,14 @@
         <img src="https://img.shields.io/badge/Python-blue" /> 
         <img src="https://img.shields.io/badge/Selenium-blue" />        
         <img src="https://img.shields.io/badge/Ruby-blue" /> 
-        <img src="https://img.shields.io/badge/Rails-blue" /> 
-        <img src="https://img.shields.io/badge/BeautifulSoup-blue" /> 
-        <img src="https://img.shields.io/badge/Pandas-blue" /> 
-        <img src="https://img.shields.io/badge/Numpy-blue" /> 
+        <img src="https://img.shields.io/badge/Rails-blue" /> ]
         <img src="https://img.shields.io/badge/Flask-blue" /> 
         <img src="https://img.shields.io/badge/PHP-blue" /> 
         <img src="https://img.shields.io/badge/Laravel-blue" /> 
         <img src="https://img.shields.io/badge/Node.js-blue" /> 
         <img src="https://img.shields.io/badge/Express-blue" /> 
         <img src="https://img.shields.io/badge/Nest.js-blue" /> 
+        <img src="https://img.shields.io/badge/-Gorang-blue" /> 
       </td>
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/AWS-blue" /> 
