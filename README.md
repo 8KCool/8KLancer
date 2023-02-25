@@ -156,7 +156,7 @@
         
 #
 <!-- Copyright -->
-<div align="center"><b>© 2017 <a href="www.8KLancer.tk" title="© 2022 YOSHITHA RATHNAYAKE">8KLancer</a></b></div>
+<div align="center"><b>© 2017 8KLancer</b></div>
         
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
