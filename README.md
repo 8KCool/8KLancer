@@ -125,21 +125,9 @@
 
 </div>
 
-<!-- Contribution Graph -->
-#
-<p align="center">
-   <i><b>CONTRIBUTION GRAPH</b></i>
-</p>
-<p align="center" title="8KLancer's Contribution Graph">
-
 <!--
 <a href="https://github.com/8KLancer/github-readme-activity-graph"><img alt="8KLancer's Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=8KLancer&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 -->
-  
-<div align="center" title="8KLancer's Contribution Graph">
-  <img src="images/GitHub Contribution Graph.png" alt="8KLancer's GitHub Contribution Graph" title="8KLancer's GitHub Contribution Graph" height="400px">
-</div>
-
 </p>
  
 <!-- Trophies -->
@@ -152,18 +140,6 @@
 <img width="90%" src="https://github-profile-trophy.vercel.app/?username=8KLancer&theme=darkhub"/>
 
 </p>
-
-<!-- Contribution Table -->
-#
-<p align="center">
-   <i><b>CONTRIBUTION TABLE</b></i>
-</p>
-
-<div align="center title="8KLancer's Contribution Table">
-
-![snake gif](https://raw.githubusercontent.com/8KLancer/8KLancer/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/8KLancer/8KLancer/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
    
 <p align="center">
   <a href="https://8klancer@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
@@ -175,7 +151,13 @@
   <a href="https://8klancer.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
 </p>
 
-<h2 align="center"> Thanks for visiting my profile. </h2>
+        
+<h2 align="center"> Thanks for visiting my profile. </h2>        
+        
+#
+<!-- Copyright -->
+<div align="center"><b>© 2017 <a href="www.8KLancer.tk" title="© 2022 YOSHITHA RATHNAYAKE">8KLancer</a></b></div>
+        
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
