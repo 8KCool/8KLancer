@@ -93,6 +93,7 @@
 <div align="center">
   <img src="./divider2.png" alt="divider"/>
 </div>    
+   
 <div align="center">
   <img src="./portfolio.png" alt="Portfolio"/>
 </div> 
@@ -102,9 +103,7 @@
 </div> 
 
    
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=8KLancer&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackPandalancer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)![image](https://user-images.githubusercontent.com/125135541/221339790-65ba9809-0ed7-4672-bdaa-5822b24ad749.png)
 
 <p align="center">
   <a href="https://8klancer@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
