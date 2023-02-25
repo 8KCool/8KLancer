@@ -92,10 +92,6 @@
 
 <div align="center">
   <img src="./divider2.png" alt="divider"/>
-</div> 
-   
-<div align="center">
-  <img src="./divider2.png" alt="divider"/>
 </div>    
 <div align="center">
   <img src="./portfolio.png" alt="Portfolio"/>
