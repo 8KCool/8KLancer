@@ -103,7 +103,7 @@
 </div> 
 
 <div align="center">   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8KLancer&layout=compact&theme=vision-friendly-light)
+  https://github-readme-stats.vercel.app/api/top-langs/?username=8KLancer&layout=compact&theme=vision-friendly-light
 </div>
    
 <p align="center">
