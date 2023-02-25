@@ -129,17 +129,6 @@
 <a href="https://github.com/8KLancer/github-readme-activity-graph"><img alt="8KLancer's Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=8KLancer&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 -->
 </p>
- 
-<!-- Trophies -->
-#
-<p align="center">
-   <i><b>TROPHIES</b></i>
-</p>
-<p align="center" title="8KLancer's Trophies">
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=8KLancer&theme=darkhub"/>
-
-</p>
    
 <p align="center">
   <a href="https://8klancer@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
@@ -153,8 +142,7 @@
 
         
 <h2 align="center"> Thanks for visiting my profile. </h2>        
-        
-#
+    
 <!-- Copyright -->
 <div align="center"><b>© 2017 8KLancer</b></div>
         
