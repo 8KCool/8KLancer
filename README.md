@@ -113,7 +113,6 @@
   <a href="https://t.me/8KLancer" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://8klancer.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
-  
 </p>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
