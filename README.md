@@ -110,7 +110,7 @@
 </p>
 <div align="center" title="Yoshitha Rathnayake's Contribution Details">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YoshithaRathnayake" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=8KLancer" align="center">
 
 </div>
 
@@ -119,9 +119,9 @@
 <p align="center">
  <b><i>GITHUB STATS</i></b>
 </p>
-<div align="center" title="Yoshitha Rathnayake's GitHub Stats">
+<div align="center" title="8KLancer's GitHub Stats">
 
-<img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=yoshitharathnayake&show_icons=true&count_private=true"/>
+<img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=8KLancer&show_icons=true&count_private=true"/>
 
 </div>
 
@@ -130,14 +130,14 @@
 <p align="center">
    <i><b>CONTRIBUTION GRAPH</b></i>
 </p>
-<p align="center" title="Yoshitha Rathnayake's Contribution Graph">
+<p align="center" title="8KLancer's Contribution Graph">
 
 <!--
-<a href="https://github.com/YoshithaRathnayake/github-readme-activity-graph"><img alt="Yoshitha's Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=YoshithaRathnayake&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/8KLancer/github-readme-activity-graph"><img alt="8KLancer's Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=8KLancer&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 -->
   
-<div align="center" title="Yoshitha Rathnayake's Contribution Graph">
-  <img src="images/GitHub Contribution Graph.png" alt="Yoshitha Rathnayake's GitHub Contribution Graph" title="Yoshitha Rathnayake's GitHub Contribution Graph" height="400px">
+<div align="center" title="8KLancer's Contribution Graph">
+  <img src="images/GitHub Contribution Graph.png" alt="8KLancer's GitHub Contribution Graph" title="8KLancer's GitHub Contribution Graph" height="400px">
 </div>
 
 </p>
@@ -147,9 +147,9 @@
 <p align="center">
    <i><b>TROPHIES</b></i>
 </p>
-<p align="center" title="Yoshitha Rathnayake's Trophies">
+<p align="center" title="8KLancer's Trophies">
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=YoshithaRathnayake&theme=darkhub"/>
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=8KLancer&theme=darkhub"/>
 
 </p>
 
@@ -159,17 +159,11 @@
    <i><b>CONTRIBUTION TABLE</b></i>
 </p>
 
-<div align="center title="Yoshitha Rathnayake's Contribution Table">
+<div align="center title="8KLancer's Contribution Table">
 
-![snake gif](https://raw.githubusercontent.com/YoshithaRathnayake/YoshithaRathnayake/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/YoshithaRathnayake/YoshithaRathnayake/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://raw.githubusercontent.com/8KLancer/8KLancer/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/8KLancer/8KLancer/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
- 
-<!-- Most Worked Repositories -->
-#
- <p align="center">
-   <i><b>MOST WORKED REPOSITORIES</b></i>
-</p>
    
 <p align="center">
   <a href="https://8klancer@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
