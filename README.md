@@ -103,7 +103,7 @@
 </div> 
 
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8KLancer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)![image](https://user-images.githubusercontent.com/125135541/221339790-65ba9809-0ed7-4672-bdaa-5822b24ad749.png)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8KLancer&layout=compact&theme=vision-friendly-light)]
 
 <p align="center">
   <a href="https://8klancer@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
