@@ -103,7 +103,8 @@
 </div> 
 
 <div align="center">   
-  https://github-readme-stats.vercel.app/api/top-langs/?username=8KLancer&layout=compact&theme=vision-friendly-light
+  
+    [![Top Langs]![image](https://github-readme-stats.vercel.app/api/top-langs/?username=8KLancer&layout=compact&theme=vision-friendly-light)]
 </div>
    
 <p align="center">
