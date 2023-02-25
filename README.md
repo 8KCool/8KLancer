@@ -104,7 +104,8 @@
 
 <div align="center">   
   
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8KLancer&layout=compact&theme=vision-friendly-dark)]
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=8KLancer&theme=tokyonight&hide_border=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=8KLancer&layout=compact&theme=visiontokyonight&hide_border=true">
 </div>
    
 <p align="center">
