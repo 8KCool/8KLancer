@@ -147,8 +147,10 @@
 <div align="center"><b>© 2017 8KLancer</b></div>
         
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+<img width=100% title="#8KLancer" alt="#8KLancer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=8KLancer&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+  
 </p>
+
 
 
 
