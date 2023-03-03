@@ -93,14 +93,14 @@
 <div align="center">
   <img src="./divider2.png" alt="divider"/>
 </div>    
-   
+<!--    
 <div align="center">
   <img src="./portfolio.png" alt="Portfolio"/>
 </div> 
 
 <div align="center">
   <img src="./divider1.png" alt="divider"/>
-</div> 
+</div>  -->
 
 
 <!-- Contribution Details -->
