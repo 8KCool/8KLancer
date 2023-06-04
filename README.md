@@ -129,25 +129,15 @@ I like my code to be elegant and efficient. Thelogic should be straightforward t
 <a href="https://github.com/8KLancer/github-readme-activity-graph"><img alt="8KLancer's Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=8KLancer&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 -->
 </p>
-   
-<p align="center">
-  <a href="https://8klancer@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/xlN5ZxiZmkww" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/8KLancer" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://8klancer.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
-</p>
 
         
 <h2 align="center"> Thanks for visiting my profile. </h2>        
     
 <!-- Copyright -->
-<div align="center"><b>© 2017 8KLancer</b></div>
+<div align="center"><b>© 2017 8K</b></div>
         
 <p align="center">
-<img width=100% title="#8KLancer" alt="#8KLancer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=8KLancer&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+<img width=100% title="#8K" alt="#8K" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=8K&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=72"/>
   
 </p>
 
