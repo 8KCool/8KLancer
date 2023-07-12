@@ -27,7 +27,7 @@ I like my code to be elegant and efficient. Thelogic should be straightforward t
       <td valign="center" width="100px"><b>Mobile<b></td>
     </tr>
     <tr>
-      <td valign="center" align="center" width="300px">
+      <td valign="center" align="center" width="500px">
         <img src="https://img.shields.io/badge/-HTML/CSS-008a00" /> 
         <img src="https://img.shields.io/badge/-React-008a00" /> 
         <img src="https://img.shields.io/badge/-Js/Ts-008a00" />
@@ -39,7 +39,7 @@ I like my code to be elegant and efficient. Thelogic should be straightforward t
         <img src="https://img.shields.io/badge/-Chart-008a00" />
         <img src="https://img.shields.io/badge/-Canvas-008a00" />
       </td>      
-      <td valign="center" align="center" width="300px">
+      <td valign="center" align="center" width="500px">
         <img src="https://img.shields.io/badge/-PHP-0050ef" /> 
         <img src="https://img.shields.io/badge/-Laravel-0050ef" /> 
         <img src="https://img.shields.io/badge/-CI-0050ef" /> 
@@ -47,17 +47,6 @@ I like my code to be elegant and efficient. Thelogic should be straightforward t
         <img src="https://img.shields.io/badge/Express-0050ef" /> 
         <img src="https://img.shields.io/badge/Nest.js-0050ef" /> 
         <img src="https://img.shields.io/badge/-Gorang-0050ef" /> 
-        <img src="https://img.shields.io/badge/Django-0050ef" /> 
-        <img src="https://img.shields.io/badge/Python-0050ef" />      
-        <img src="https://img.shields.io/badge/Ruby-0050ef" /> 
-      </td>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Android-a0522d" /> 
-        <img src="https://img.shields.io/badge/ReactNative-a0522d" /> 
-        <img src="https://img.shields.io/badge/Flutter-a0522d" /> 
-        <img src="https://img.shields.io/badge/Swift-a0522d" /> 
-        <img src="https://img.shields.io/badge/Kotlin-a0522d" /> 
-        <img src="https://img.shields.io/badge/-Java-a0522d" />
       </td>
     </tr>
   </table>
