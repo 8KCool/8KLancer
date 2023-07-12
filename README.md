@@ -24,7 +24,6 @@ I like my code to be elegant and efficient. Thelogic should be straightforward t
     <tr>
       <td valign="center" width="100px"><b>Frontend<b></td>
       <td valign="center" width="100px"><b>Backend<b></td>
-      <td valign="center" width="100px"><b>Mobile<b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="500px">
